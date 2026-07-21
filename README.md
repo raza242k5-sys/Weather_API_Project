@@ -68,11 +68,6 @@ python weather.py
 
 ## 📷 Sample Output
 
-### 🌍 Enter City Name
-
-![City Input](screenshots/city_input.png)
-
----
 
 ### 🌦️ Weather Report
 
