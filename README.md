@@ -68,12 +68,19 @@ python weather.py
 
 ## 📷 Sample Output
 
-
 ### 🌦️ Weather Report
+
+Displays the current weather information for the entered city.
 
 ![Weather Report](screenshots/weather_report.png)
 
 ---
+
+### ❌ Invalid City
+
+Displays an error message when an invalid city name is entered.
+
+![Invalid City](screenshots/invalid_city.png)
 
 ## 📂 Project Structure
 
@@ -81,8 +88,8 @@ python weather.py
 Weather_API_Project/
 │
 ├── screenshots/
-│   ├── city_input.png
-│   └── weather_report.png
+│   ├── weather_report.png
+│   └── invalid_city.png
 │
 ├── .gitignore
 ├── README.md
